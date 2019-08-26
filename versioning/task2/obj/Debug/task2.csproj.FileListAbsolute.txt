@@ -1,0 +1,7 @@
+E:\versioning\Versioning\versioning\task2\bin\Debug\task2.exe.config
+E:\versioning\Versioning\versioning\task2\bin\Debug\task2.exe
+E:\versioning\Versioning\versioning\task2\bin\Debug\task2.pdb
+E:\versioning\Versioning\versioning\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+E:\versioning\Versioning\versioning\task2\obj\Debug\task2.exe
+E:\versioning\Versioning\versioning\task2\obj\Debug\task2.pdb
+E:\versioning\Versioning\versioning\task2\obj\Debug\task2.csprojAssemblyReference.cache
